@@ -1,6 +1,5 @@
-- 👋🏽 Hi, I’m @LauraCastro
-- 👩🏽‍💻 Junior QA in TR
-<!---
-LauraCastroTR/LauraCastroTR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋🏽 Hi, I’m Laura
+- 📈 I’m interested in learning and improving as much as I can
+- 🐍 I'm a huge Python fan, but I've also been learning a bit more about javascript frameworks, like React and ReactiveNative 😉
+- 👩🏽‍💻 I work as a Middle QA, and I'm really enjoying communicating and working on new challenges!
+- 👩🏽‍🎓 I'm in college for Software Engineering and recently graduated in Mechatronics Engineering
