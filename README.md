@@ -1,5 +1,5 @@
 - 👋🏽 Hi, I’m Laura
 - 📈 I’m interested in learning and improving as much as I can
-- 🐍 I'm a huge Python fan, but I've also been learning a bit more about javascript frameworks, like React and ReactiveNative 😉
+- 🐍 I'm a huge Python fan, but I've also been learning a bit more about Javascript and Typescript frameworks 😉
 - 👩🏽‍💻 I work as a Middle QA, and I'm really enjoying communicating and working on new challenges!
-- 👩🏽‍🎓 I'm in college for Software Engineering and recently graduated in Mechatronics Engineering
+- Some frameworks and languages I'm used to are Selenium, Cypress, RestSharp, Appium and little bit of k6 - With C#, .NET and Typescript/Javascript
