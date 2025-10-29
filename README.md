@@ -2,4 +2,4 @@
 - 📈 I’m interested in learning and improving as much as I can
 - 🐍 I'm a huge Python fan, but I've also enjoyed working with Javascript and Typescript
 - 👩🏽‍💻 I work as a Middle QA, and I'm really enjoying communicating and working on new challenges!
-- Some frameworks and languages I'm also used to working with are Selenium, Cypress, RestSharp, Appium and little bit of k6 - With C#, .NET and Typescript/Javascript
+- Some frameworks and languages I'm also used to working with are Selenium, Cypress, RestSharp, Appium and little bit of k6 - With C#, .NET, Typescript/Javascript and Python!
